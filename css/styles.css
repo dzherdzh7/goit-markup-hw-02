@@ -109,6 +109,7 @@ img {
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
+  background-color: #ffffff;
 }
 
 .feature-title {
