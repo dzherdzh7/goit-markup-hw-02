@@ -152,14 +152,13 @@ img {
 }
 .footer {
   background-color: #2e2f42;
-  color: #f4f4fd;
   padding: 100px 0;
 }
 
 .footer-text {
+  color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width: 264px;
   margin-top: 16px;
 }
-
