@@ -33,7 +33,6 @@ img {
   background-color: #2e2f42;
   color: #ffffff;
   text-align: center;
-  padding: 188px;
 }
 
 .hero-title {
@@ -54,9 +53,8 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  padding: 16px 32px;
+
   border: none;
-  border-radius: 4px;
 }
 .hero button:hover,
 .hero button:focus {
@@ -67,7 +65,7 @@ img {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0,03em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -161,7 +159,6 @@ img {
 .footer {
   background-color: #2e2f42;
   letter-spacing: 0.02em;
-  padding: 100px 0;
 }
 
 .footer-text {
