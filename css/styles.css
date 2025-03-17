@@ -126,7 +126,8 @@ img {
   background-color: #f4f4fd;
 }
 
-.team-title {
+.team-title
+.portfolio-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -141,7 +142,8 @@ img {
 }
 
 
-.team-name {
+.team-name
+.portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -151,7 +153,8 @@ img {
   margin-bottom: 8px;
 }
 
-.team-role {
+.team-role
+.portfolio-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -167,4 +170,9 @@ img {
   line-height: 1.5;
   max-width: 264px;
   margin-top: 16px;
+}
+
+/* Portfolio Section */
+.portfolio {
+  background-color: #ffffff;
 }
